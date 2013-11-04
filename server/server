@@ -1,0 +1,2 @@
+export NODE_PATH=C:/tool/gnupack/home/node_modules
+C:/Users/simei/.nvmw/v0.8.25/node.exe server.js
